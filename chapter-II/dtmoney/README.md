@@ -33,6 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   > Tem banco de dados integrados, conseguimos fazer relacionamentos. É como se fosse um framework em cima dessa parte de criar mocks em APIs (back-end)
 
 - [**React Modal**](https://github.com/reactjs/react-modal)
+- [**Polished**](https://github.com/reactjs/react-modal): tem várias funções helpers para mudarmos as cores
 
 
 ## 📚 Extensões do VSCode

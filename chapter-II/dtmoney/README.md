@@ -14,6 +14,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React](https://reactjs.org)
 - [Styled Components](https://styled-components.com/)
 - [Mirage](https://miragejs.com/)
+- [Axios](https://axios-http.com/docs/intro)
 
 ---
 

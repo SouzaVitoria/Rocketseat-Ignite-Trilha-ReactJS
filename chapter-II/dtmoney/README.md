@@ -13,6 +13,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [TypeScript](https://www.typescriptlang.org/)
 - [React](https://reactjs.org)
 - [Styled Components](https://styled-components.com/)
+- [Mirage](https://miragejs.com/)
 
 ---
 
@@ -26,13 +27,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 📚 Ferramentas, Bibliotecas e Pacotes
 
-- **Vite:** é uma ferramenta que converte o código para um formato que todos os browsers entendam, ou seja, permite que o navegador entenda o JS mais moderno.
+- **MirageJS:** construir uma API fake dentro do nosso front-end. 
+  > Tem banco de dados integrados, conseguimos fazer relacionamentos. É como se fosse um framework em cima dessa parte de criar mocks em APIs (back-end)
 
 
 ## 📚 Extensões do VSCode
 
-- Code Spell Checker
-- ESLint
-- Tailwind CSS IntelliSense
-- Prisma
-- Rest Client / Insomnia / Postman
+- vscode-styled-components

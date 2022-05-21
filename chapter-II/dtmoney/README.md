@@ -1,6 +1,7 @@
 # DT Money
 
-É uma aplicação de controle de finanças pessoais. 
+É uma aplicação de controle de finanças pessoais.
+
 ![Dashboard](./docs/images/dashboard.png)
 ![Modal](./docs/images/modal.png)
 
@@ -30,6 +31,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - **MirageJS:** construir uma API fake dentro do nosso front-end. 
   > Tem banco de dados integrados, conseguimos fazer relacionamentos. É como se fosse um framework em cima dessa parte de criar mocks em APIs (back-end)
+
+- [**React Modal**](https://github.com/reactjs/react-modal)
 
 
 ## 📚 Extensões do VSCode

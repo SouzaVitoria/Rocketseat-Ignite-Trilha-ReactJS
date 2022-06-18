@@ -36,3 +36,9 @@ Memorizar uma função.
 **Uso:**
 
 1.  Igualdade referencial, quando passamos a informação para um componente filho.
+
+---
+
+### **Formatação de dados**
+
+Faça a formatação no momento que busca as informações e não no momento que irá exibi-las (no momento que irá renderizar o componente que vai precisar da informação)

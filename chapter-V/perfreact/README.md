@@ -42,3 +42,12 @@ Memorizar uma função.
 ### **Formatação de dados**
 
 Faça a formatação no momento que busca as informações e não no momento que irá exibi-las (no momento que irá renderizar o componente que vai precisar da informação)
+
+---
+
+### **Dynamic import (Code Splitting) / Lazy Load**
+
+Importar alguma coisa somente no momento que for utilizar.
+Quando vamos carregar um componente e ele nem sempre está visível em tela (só é visível a partir de uma ação do usuário), podemos colocar o componente em Lazy Load (carregamento preguiçoso).
+
+> **Doc:** https://reactjs.org/docs/code-splitting.html

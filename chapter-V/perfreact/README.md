@@ -51,3 +51,11 @@ Importar alguma coisa somente no momento que for utilizar.
 Quando vamos carregar um componente e ele nem sempre está visível em tela (só é visível a partir de uma ação do usuário), podemos colocar o componente em Lazy Load (carregamento preguiçoso).
 
 > **Doc:** https://reactjs.org/docs/code-splitting.html
+
+---
+
+### **Virtualização**
+
+Permite que mostre em tela somente os itens que estão visíveis no navegador do usuário.
+
+> Instale a biblioteca `react-virtualized` (`yarn add react-virtualized -D`)

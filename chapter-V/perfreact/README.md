@@ -26,3 +26,13 @@ Evita que alguma coisa que ocupe muito processamento (ex: cálculo), seja refeit
 
 1.  Cálculos pesados. Não use para cálculos pequenos, porque o **useMemo** já tem um custo de processamento e pode ser que fique mais lento do que não colocando ele.
 2.  Igualdade referencial, quando passamos a informação para um componente filho. Então por mais que o cálculo seja simples, se for usar a informação para componente filho, vale a pena utilizar o **useMemo**
+
+---
+
+### **useCallback**
+
+Memorizar uma função.
+
+**Uso:**
+
+1.  Igualdade referencial, quando passamos a informação para um componente filho.
